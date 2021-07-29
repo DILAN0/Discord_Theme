@@ -8,22 +8,22 @@
 @import url("https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css");
 :root {
 --main-theme-color: rgb(255, 255, 255);
---theme-transparency: rgba(0, 0, 0, 0.418); /*ЕТО ПРОЗРАЧНОСТЬ*/
+--theme-transparency: #00000038; /*ЕТО ПРОЗРАЧНОСТЬ*/
 --theme-background-image: url('https://images.wallpaperscraft.ru/image/anime_devushka_gotika_glaza_15108_1920x1080.jpg');
---home-icon-image: url('https://i.imgur.com/6qzFxJE.jpg');
---home-icon-image-zoom: 130%;
+--home-icon-image: url('https://media0.giphy.com/media/a6pzK009rlCak/200.gif');
+--home-icon-image-zoom: 100%;
 --home-icon-image-position: center;
 --server-listing-width: 70px;
 --font-size: 90%;
---mention-color: #aa7d7d;
---mention-sider: #faa61aff;
+--mention-color: #aa7d7d34;
+--mention-sider: #faa81a52;
 --mention-hover-color: #F5FAF739;
---category-hover-color: rgb(18, 22, 22);
+--category-hover-color: #1214163f;
 --unread-server-animation: rainbow;
---video-screen-button-background-color: #aa7d7d;
---video-screen-button-foreground-color: rgba(255, 255, 255, 0);
---video-screen-button-background-hovor-color: #aa7d7d;
---video-screen-button-foreground-hovor-color: #aa7d7d;
+--video-screen-button-background-color: #aa7d7d4b;
+--video-screen-button-foreground-color: rgba(255, 255, 255, 0.267);
+--video-screen-button-background-hovor-color: #aa7d7d44;
+--video-screen-button-foreground-hovor-color: #aa7d7d46;
 --member-listing-role-color: #aa7d7d;
 --small-user-popout-background-image: url('https://images.wallpaperscraft.ru/image/anime_devushka_gotika_glaza_15108_1920x1080.jpg');
 --small-user-popout-background-transparency: #00000067;
@@ -60,7 +60,7 @@
 --text-voice-channel-selected-text-color: #aa7d7d;
 --unread-text-channel-color: #aa7d7d;
 --unread-text-channel-bubble-color: #aa7d7d;
---folder-background-color: #aa7d7d;
+--folder-background-color: #aa7d7d4f;
 --expanded-folder-background-color: #00000000;
 --reaction-emoji-background-color: #00000000;
 --reaction-emoji-border-color: 1px solid transparent;
