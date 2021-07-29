@@ -1,4 +1,5 @@
 # Discord Theme
 
-![anime_theme_2](https://user-images.githubusercontent.com/70542011/127545518-f60ee67b-bf15-48bc-9b36-e291559c1bd9.png)
+![anime_theme_3](https://user-images.githubusercontent.com/70542011/127561437-4f05fd3a-b8ea-49f4-abd1-6e2954dfef67.png)
+
 
